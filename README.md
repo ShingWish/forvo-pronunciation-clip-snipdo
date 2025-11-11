@@ -8,6 +8,8 @@
 
 A SnipDo extension that allows you to quickly look up word pronunciations on Forvo.com by selecting text.
 
+![Demo](images/demo.gif)
+
 ### Features
 
 - 🎯 Select any word and instantly open its Forvo pronunciation page
@@ -32,6 +34,8 @@ A SnipDo extension that allows you to quickly look up word pronunciations on For
 ### Customization
 
 You can customize the page language and pronunciation language in SnipDo settings:
+
+![SnipDo Settings](images/snipdo-settings.png)
 
 1. Open SnipDo settings
 2. Find "Forvo Pronunciation" extension
@@ -104,6 +108,8 @@ Created by **ShingWish** ([@ShingWish](https://github.com/ShingWish))
 
 一個 SnipDo 擴充插件，讓你可以透過選取文字快速查詢 Forvo.com 上的單字發音。
 
+![使用示範](images/demo.gif)
+
 ### 功能特色
 
 - 🎯 選取任何單字即可立即開啟 Forvo 發音頁面
@@ -128,6 +134,8 @@ Created by **ShingWish** ([@ShingWish](https://github.com/ShingWish))
 ### 自訂設定
 
 你可以在 SnipDo 設定中自訂頁面語言和發音語言：
+
+![SnipDo 設定畫面](images/snipdo-settings.png)
 
 1. 開啟 SnipDo 設定
 2. 找到「Forvo Pronunciation」擴充功能
