@@ -29,3 +29,6 @@ $forvo_url = "https://$PAGE_LANG.forvo.com/word/$word_lower/#$PRONUNCIATION_LANG
 
 # Open the URL in default browser
 Start-Process $forvo_url
+
+# Copy the URL to clipboard
+Set-Clipboard -Value $forvo_url

@@ -13,6 +13,7 @@ A SnipDo extension that allows you to quickly look up word pronunciations on For
 ### Features
 
 - 🎯 Select any word and instantly open its Forvo pronunciation page
+- 📋 Automatically copy the URL to clipboard for easy pasting into notes
 - 🌍 Customizable page language and pronunciation language
 - ⚡ Fast and lightweight
 - 🔧 Easy to configure via SnipDo settings
@@ -30,6 +31,7 @@ A SnipDo extension that allows you to quickly look up word pronunciations on For
 2. Open SnipDo menu (default: right-click or hotkey)
 3. Click the "Forvo Pronunciation" icon
 4. Your browser will open the Forvo page with pronunciation (e.g., `https://zh.forvo.com/word/frankreich/#de`)
+5. The URL is automatically copied to your clipboard - simply paste (Ctrl+V) it into your notes!
 
 ### Customization
 
@@ -67,7 +69,7 @@ $PRONUNCIATION_LANG = "de"  # Change to "en", "fr", "es", "ja", etc.
 
 ### Requirements
 
-- Windows OS
+- **Windows OS only** (PowerShell scripts are not compatible with macOS or Linux)
 - [SnipDo](https://snipdo.com/) installed
 - PowerShell (built-in on Windows)
 
@@ -113,6 +115,7 @@ Created by **ShingWish** ([@ShingWish](https://github.com/ShingWish))
 ### 功能特色
 
 - 🎯 選取任何單字即可立即開啟 Forvo 發音頁面
+- 📋 自動複製網址到剪貼簿，方便貼回筆記中
 - 🌍 可自訂頁面語言和發音語言
 - ⚡ 快速且輕量
 - 🔧 透過 SnipDo 設定輕鬆配置
@@ -130,6 +133,7 @@ Created by **ShingWish** ([@ShingWish](https://github.com/ShingWish))
 2. 開啟 SnipDo 選單（預設：右鍵或快捷鍵）
 3. 點擊「Forvo Pronunciation」圖示
 4. 瀏覽器會自動開啟 Forvo 發音頁面（例如：`https://zh.forvo.com/word/frankreich/#de`）
+5. 網址會自動複製到剪貼簿，直接按 Ctrl+V 就能貼到筆記中！
 
 ### 自訂設定
 
@@ -167,7 +171,7 @@ $PRONUNCIATION_LANG = "de"  # 可改為 "en"、"fr"、"es"、"ja" 等
 
 ### 系統需求
 
-- Windows 作業系統
+- **僅支援 Windows 作業系統**（PowerShell 腳本無法在 macOS 或 Linux 上運行）
 - 已安裝 [SnipDo](https://snipdo.com/)
 - PowerShell（Windows 內建）
 
