@@ -1,0 +1,28 @@
+# NextAI Translator (reference plugin - not part of this project)
+nextai-translator.pbar
+nextai-translator.json
+nextai-translator.ps1
+
+# Claude Code settings
+.claude/
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Archives (keep only the final .pbar)
+*.zip
+
+# Logs
+*.log

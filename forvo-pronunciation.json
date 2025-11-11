@@ -1,0 +1,12 @@
+{
+    "name": "Forvo Pronunciation",
+    "identifier": "com.forvo.pronunciation.clip-extensions.snipdo",
+    "icon": "icon.png",
+    "actions": [
+        {
+            "title": "Forvo Pronunciation",
+            "icon": "icon.png",
+            "powershellFile": "forvo-pronunciation.ps1"
+        }
+    ]
+}
